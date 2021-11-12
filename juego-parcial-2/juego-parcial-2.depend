@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636672157 source:c:\users\nicol\onedrive\escritorio\utn\laboratorio\parcial-2-tp\juego-parcial-2\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
+1636675233 source:c:\users\nicol\onedrive\escritorio\utn\laboratorio\parcial-2-tp\juego-parcial-2\funciones.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
+1636676455 c:\users\nicol\onedrive\escritorio\utn\laboratorio\parcial-2-tp\juego-parcial-2\funciones.h
+

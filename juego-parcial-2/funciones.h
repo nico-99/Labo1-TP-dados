@@ -1,7 +1,7 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
 
-//Numero aleotorio
+//Numero Aleotorio
 int numeroAleatorio(int inicio, int fin);
 
 //Mostrar creditos
